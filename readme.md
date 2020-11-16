@@ -14,4 +14,11 @@ __*Texto em negrito e itálico*__
    2. Segundo sub item
 3. Terceiro item
 
+---
+
+Número | Nome | Idade
+1. | Fernando | 30
+1. | Evelin | 26
+1. | Paulo | 67
+
 
