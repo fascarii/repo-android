@@ -1,5 +1,4 @@
 # Linguagem Markdown
-
 **Texto em negrito**
 
 *Texto em itálico*
@@ -19,6 +18,4 @@ __*Texto em negrito e itálico*__
 Número | Nome | Idade
 1. | Fernando | 30
 1. | Evelin | 26
-1. | Paulo | 67
-
-
+1.| Paulo |67
