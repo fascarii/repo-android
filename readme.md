@@ -15,7 +15,7 @@ __*Texto em negrito e itálico*__
 3. Terceiro item
 ---
 Número | Nome | Idade
---- | --- | ---
+--- | :--- | ---
 1 |**Fernando** |30
 2 |**Evelin** | 26
 3 |**Paulo**|67
