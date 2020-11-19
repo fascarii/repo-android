@@ -20,3 +20,5 @@ Número | Nome | Idade
 2 |**Evelin** | 26
 3 |**Paulo**|67
 4 |**Alguém**|56
+5 |**Outro**| 30
+
