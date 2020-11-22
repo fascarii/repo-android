@@ -20,7 +20,9 @@ __*Texto em negrito e itálico*__
    1. Primeiro sub item
    2. Segundo sub item
 3. Terceiro item
----
+
+--- 
+
 Número | Nome | Idade
 --- | :--- | ---
 1 |**Fernando** |30
@@ -29,3 +31,7 @@ Número | Nome | Idade
 4 |**Alguém**|56
 5 |**Outro**| 30
 
+---
+
+
+*Fim*
