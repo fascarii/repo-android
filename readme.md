@@ -23,15 +23,18 @@ __*Texto em negrito e itálico*__
 
 --- 
 
-Número | Nome | Idade
---- | :--- | ---
-1 |**Fernando** |30
-2 |**Evelin** | 26
-3 |**Paulo**|67
-4 |**Alguém**|56
-5 |**Outro**| 30
+| Número | Nome         | Idade |
+| ------ | :----------- | ----- |
+| 1      | **Fernando** | 30    |
+| 2      | **Evelin**   | 26    |
+| 3      | **Paulo**    | 67    |
+| 4      | **Alguém**   | 56    |
+| 5      | **Outro**    | 30    |
 
 ---
+
+[] Item 1
+[] Item 2
 
 
 *Fim*
