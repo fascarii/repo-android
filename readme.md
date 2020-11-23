@@ -33,8 +33,8 @@ __*Texto em negrito e itálico*__
 
 ---
 
-[ ] Item 1
-[ ] Item 2
+- [x] Item 1
+- [ ] Item 2
 
 
 *Fim*
