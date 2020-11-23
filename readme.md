@@ -35,6 +35,8 @@ __*Texto em negrito e itálico*__
 
 - [x] Item 1
 - [ ] Item 2
+- [ ] Item 3
+
 
 
 *Fim*
